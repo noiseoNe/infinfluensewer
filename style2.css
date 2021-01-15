@@ -1,0 +1,89 @@
+body {
+    background-color: #f9fafb;
+    font-family: "Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+
+}
+.logo1 {
+    margin :0 auto;
+    margin-top:20px;
+}
+.logo1 img {
+    width: 279px;
+    height: 48px;
+
+}
+.toh {
+    text-align: center;
+}
+.toh h1 {
+    font-weight: 800;
+}
+.container {
+    display: flex;
+    flex-direction:column;
+
+
+}
+.container div {
+    padding: 10px;
+}
+.log1 form {
+    background-color: #ffff;
+    width: 368px;
+    height: 299px ;
+    border-radius: 10px;
+    
+    margin: 0 auto;
+    padding-top: 32px;
+    padding-bottom: 32px; 
+    padding-right: 40px;
+    padding-left: 40px;   
+
+}
+#but1 {
+   width: 342px;
+   height: 41px;
+    border : 0 ;
+    background-color: #5850ec;
+    border-radius: 5px;
+    color:white ;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    
+}
+#login {
+    width: 334px;
+    height: 35px;
+   border : 2px solid #d2d6dc ;
+       border-radius: 5px;
+
+}
+#pass {
+    width: 334px;
+    height: 35px;
+    border: 2px solid #d2d6dc;
+    border-radius: 5px;
+}
+.regform {
+    text-align : left;
+    clear : both;
+}
+ a {
+    text-decoration: none;
+    color :#5850ec;
+    font-weight: 500;
+}
+#an1 {
+    text-decoration: underline;
+    color : #6b7280;
+    margin-left: 10px;
+}
+#an2 {
+    margin-bottom :100px;
+    margin-left :10px;
+}
+label {
+    padding-bottom: 20px;
+    font-weight: 500;
+}
